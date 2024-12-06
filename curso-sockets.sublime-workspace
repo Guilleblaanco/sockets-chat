@@ -1,0 +1,278 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"acn",
+				"anchuraToSlider"
+			],
+			[
+				"jquey",
+				"jquery"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"pro",
+				"projectForm"
+			],
+			[
+				"pr",
+				"projectForm"
+			],
+			[
+				"he",
+				"min-height\tproperty"
+			],
+			[
+				"app",
+				"appRoutingProviders"
+			],
+			[
+				"project",
+				"project"
+			],
+			[
+				"Rou",
+				"RouterModule"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp64/www/curso-sockets",
+		"/C/wamp64/www/curso-sockets/server"
+	],
+	"file_history":
+	[
+		"/C/wamp64/www/curso-sockets/server/index.js",
+		"/C/wamp64/www/curso-sockets/client/main.js",
+		"/C/wamp64/www/curso-sockets/client/index.html",
+		"/C/wamp64/www/curso-sockets/package.json",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/contact/contact.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/resaltado.directive.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/contact/contact.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/app.module.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/slider/slider.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/slider/slider.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/angular.json",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/tsconfig.app.json",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/tsconfig.json",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/detail/detail.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/detail/detail.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/assets/css/styles.css",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/edit/edit.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/services/project.service.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/create/create.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/edit/edit.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/projects/projects.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/app.routing.ts",
+		"/C/wamp64/www/curso-javascript/backend/routes/project.js",
+		"/C/wamp64/www/curso-javascript/backend/controllers/project.js",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/projects/projects.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/wamp64/www/curso-javascript/backend/uploads/vG3ZNwT6g53Y7e6gVio7NkDP.jpeg",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/services/global.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/models/project.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/app.component.html",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/about/about.component.ts",
+		"/C/wamp64/www/curso-javascript/proyecto-angular/src/app/components/about/about.component.html",
+		"/C/wamp64/www/curso-javascript/backend/app.js",
+		"/C/wamp64/www/curso-javascript/backend/models/project.js",
+		"/C/wamp64/www/curso-javascript/backend/rutes/project.js",
+		"/C/wamp64/www/curso-javascript/backend/package.json",
+		"/C/wamp64/www/curso-javascript/backend/index.js",
+		"/C/wamp64/www/curso-javascript/backend/package-lock.json",
+		"/C/wamp64/www/curso-javascript/backend/calculadora.js",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/service/peticiones.service.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/externo/externo.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/externo/externo.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/contacto/contacto.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/contacto/contacto.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/app.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/models/contacto.usuario.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/app.routing.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/app.module.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/pipes/calculadora.pipe.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/service/zapatilla.service.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/zapatillas/zapatillas.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/home/home.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/home/home.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/cursos/cursos.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/cursos/cursos.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/assets/styles.css",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/index.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/zapatillas/zapatillas.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/models/zapatilla.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/videojuego/videojuego.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/models/configuracion.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/app.component.ts",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/src/app/videojuego/videojuego.component.html",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/package.json",
+		"/C/Users/ASUS ROG ZEPHYRUS/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ASUS ROG ZEPHYRUS/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/wamp64/www/curso-javascript/aprendiendo-angular/angular.json",
+		"/C/wamp64/www/curso-javascript/hola-mundo/formulario.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-sockets.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
